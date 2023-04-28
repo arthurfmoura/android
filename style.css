@@ -1,0 +1,69 @@
+.comeco{
+    text-align: center;
+    box-shadow: 5px;
+    background-color: rgb(22, 228, 255);
+}
+.titulo{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right, aqua, white);
+}
+.video{
+text-align: center;
+background-color: green;
+background-color: aquamarine;
+}
+
+nav > a{
+color: white;
+padding: 10px;
+text-decoration: none;
+font-weight: bold;
+transition-duration: 1s;
+background-color: aqua;
+}
+
+nav > a:hover{
+background-color: var(--cor2);
+color: var(--cor5);
+font-weight: bold;
+border-radius: 3px;
+}
+
+nav{
+background-color: var(--cor5);
+padding: 10px;
+
+}
+
+footer{
+text-align: center;
+background-color:cyan;
+}
+
+.square{
+columns: 2;
+background-color: cyan;
+}
+
+aside > ul{
+background-color: cyan;
+}
+
+aside{
+background-color: cyan;
+border-radius: 7px;
+box-shadow: 5px;
+}
+
+.titu{
+background-color: rgb(18, 157, 167);
+border-radius: 7px;
+box-shadow: 5px;
+}
+
+.titupri{
+font-size: 45px;
+color: rgb(44, 161, 161);
+
+}
